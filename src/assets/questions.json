@@ -1,0 +1,165 @@
+{
+    "questions": [{
+            "questionText": "Who is father of nation?",
+            "options": [{
+                    "text": "Mahatma Gandi",
+                    "correct": true
+                },
+                {
+                    "text": "ABJ Abdul Kalam"
+                },
+                {
+                    "text": "Alia Bhatt"
+                },
+                {
+                    "text": "Priya Takur"
+                }
+            ],
+            "explanation": "The father of nation is Mahatma Gandi"
+        },
+        {
+            "questionText": "The Paithan (Jayakwadi) Hydro-electric project, completed with the help of Japan, is on the river?",
+            "options": [{
+                    "text": "Yamuna"
+                },
+                {
+                    "text": "Ganga"
+                },
+                {
+                    "text": "Kaveri"
+                },
+                {
+                    "text": "Godavari",
+                    "correct": true
+                }
+            ],
+            "explanation": "Godavari is the Hydro electric project."
+        },
+        {
+            "questionText": "The nucleus of an atom consists of?",
+            "options": [{
+                    "text": "electrons and neutrons"
+                },
+                {
+                    "text": "protons and neutrons",
+                    "correct": true
+                },
+                {
+                    "text": "electrons and protons"
+                },
+                {
+                    "text": "protons and electrons"
+                }
+            ],
+            "explanation": "Because NUCLEUS=PROTONES + NEUTRONS."
+        },
+        {
+            "questionText": "It is easier to roll a stone up a sloping road than to lift it vertical upwards because?",
+            "options": [{
+                    "text": "work done in rolling a stone is greather than in lifting it"
+                },
+                {
+                    "text": "work done in rolling a stone is less than in lifting it",
+                    "correct": true
+                },
+                {
+                    "text": "work done in lifting the stone is equal to rolling it"
+                },
+                {
+                    "text": "work done in rolling is more than in lifting"
+                }
+            ],
+            "explanation": "The work done is the same but the rate of doing work is greater on lifting."
+        },
+        {
+            "questionText": "Ordinary table salt is sodium chloride. What is baking soda?",
+            "options": [{
+                    "text": "Sodium bicarbonate",
+                    "correct": true
+                },
+                {
+                    "text": "Potassium hydroxide"
+                },
+                {
+                    "text": "Sodium carbonate"
+                },
+                {
+                    "text": "Potassium carbonate"
+                }
+            ],
+            "explanation": "B is correct answer"
+        },
+        {
+            "questionText": "Ozone hole refers to?",
+            "options": [{
+                    "text": "increase in the thickness of ozone layer in troposphere"
+                },
+                {
+                    "text": "decrease in the ozone layer in troposphere"
+                },
+                {
+                    "text": "increase in thickness of ozone layer in stratosphere"
+                },
+                {
+                    "text": "decrease in thickness of ozone layer in stratosphere",
+                    "correct": true
+                }
+            ],
+            "explanation": "The ozone layer refers to the tiny layer in the atmosphere that reached the amount of the sun's height from getting to the surface of the earth."
+        },
+        {
+            "questionText": "Former Australian captain Mark Taylor has had several nicknames over his playing career. Which of the following was NOT one of them?",
+            "options": [{
+                    "text": "Dumpy"
+                },
+                {
+                    "text": "Stumpy",
+                    "correct": true
+                },
+                {
+                    "text": "Helium Bat"
+                },
+                {
+                    "text": "Tubby"
+                }
+            ],
+            "explanation": "He was christened 'Helium Bat' very early in his career by team mates, due to his habit of lifting his bat over his shoulder and letting anything bowled outside the off-stump go by."
+        },
+        {
+            "questionText": "Which county did Ravi Shastri play for?",
+            "options": [{
+                    "text": "Glamorgan",
+                    "correct": true
+                },
+                {
+                    "text": "Gloucestershire"
+                },
+                {
+                    "text": "Morgan"
+                },
+                {
+                    "text": "Lancashire"
+                }
+            ],
+            "explanation": "Ravi Shastri once hit spinner Tilak Raj for 6 sixes in an over in a First Class match."
+        },
+        {
+            "questionText": "20th August is celebrated as?",
+            "options": [{
+                    "text": "Sadbhavana Divas",
+                    "correct": true
+                },
+                {
+                    "text": "No Tobacco Day"
+                },
+                {
+                    "text": "Earth Day"
+                },
+                {
+                    "text": "None Of the Above"
+                }
+            ],
+            "explanation": "Rajiv Gandhi's birthday is celebrated as Sadbhawana Diwas on 20th August."
+        }
+    ]
+}
